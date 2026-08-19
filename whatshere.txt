@@ -1,0 +1,9 @@
+Blog API Project-
+
+
+. PostgreSQL Setup + FastAPI
+Start
+. CRUD APIs
+. JWT Auth
+. Pagination + Search
+. Code Push to GitHub.
